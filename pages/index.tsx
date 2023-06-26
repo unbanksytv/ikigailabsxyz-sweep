@@ -86,7 +86,7 @@ const IndexPage: NextPage<Props> = ({ ssr }) => {
             css={{ mx: 'auto', maxWidth: 728, pt: '$5', textAlign: 'center' }}
           >
             <Text style="h3" css={{ mb: 24 }}>
-              IKIGAI 生 SWEEP FLOOR
+              IKIGAI 生 BRANDING
             </Text>
             <Text style="body1" css={{ mb: 48 }}>
               Life is not fungible. We’re all an ERC-721. 
